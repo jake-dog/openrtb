@@ -3,7 +3,7 @@ package request
 import (
 	"encoding/json"
 
-	"github.com/prebid/openrtb/v20/native1"
+	"github.com/prebid/openrtb/v21/native1"
 )
 
 // 4.7 Event Trackers Request Object
